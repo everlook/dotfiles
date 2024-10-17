@@ -1,7 +1,7 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: UbuntuMono Nerd Font, FontAwesome;
-    font-size: 13px;
+    font-family: Fira Sans, FontAwesome;
+    font-size: 14px;
 }
 
 window#waybar {
