@@ -9,8 +9,6 @@ ZSH_THEME="gentoo"
 plugins=(git golang node npm sudo tmux rust fzf)
 
 source $ZSH/oh-my-zsh.sh
-fpath+=${ZDOTDIR:-~}/.zsh_functions
-source $HOME/.zsh_functions/_awscli
 
 # User configuration
 
