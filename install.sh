@@ -2,6 +2,7 @@
 
 pkgs="
 alacritty
+git
 hypr
 nvim
 tmux
