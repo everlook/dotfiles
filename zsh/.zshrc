@@ -6,7 +6,7 @@ export EDITOR=nvim
 ZSH_THEME="gentoo"
 
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git golang node npm sudo tmux rust fzf)
+plugins=(git golang node npm sudo tmux rust fzf eza)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -20,7 +20,6 @@ source $HOME/.cargo/env
 
 # alias
 alias cls=clear
-#alias ls='exa'
 
 # don't share history
 unsetopt share_history
