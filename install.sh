@@ -1,11 +1,13 @@
 #!/bin/bash
 
 pkgs="
-zsh
 alacritty
+hypr
+nvim
+tmux
 wallpapers
 waybar
-hypr
+zsh
 "
 
 for p in $pkgs; do
