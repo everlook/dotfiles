@@ -77,17 +77,17 @@ button:hover {
 }
 
 #memory {
-    color: @maroon;
-    border-bottom: 2px solid @maroon;
+    color: @green;
+    border-bottom: 2px solid @green;
 }
 
 #cpu {
-    color: @maroon;
-    border-bottom: 2px solid @maroon;
+    color: @green;
+    border-bottom: 2px solid @green;
 }
 
 #clock {
-    color: @maroon;
+    color: @yellow;
     border-bottom: 2px solid @maroon;
 }
 
@@ -117,8 +117,8 @@ button:hover {
 }
 
 #battery {
-    color: @green;
-    border-bottom: 2px solid @green;
+    color: @blue;
+    border-bottom: 2px solid @blue;
 }
 
 /* If workspaces is the leftmost module, omit left margin */
