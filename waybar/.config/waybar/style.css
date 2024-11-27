@@ -88,12 +88,12 @@ button:hover {
 
 #clock {
     color: @yellow;
-    border-bottom: 2px solid @maroon;
+    border-bottom: 2px solid @yellow;
 }
 
 #clock.date {
-    color: @mauve;
-    border-bottom: 2px solid @mauve;
+    color: @yellow;
+    border-bottom: 2px solid @yellow;
 }
 
 #pulseaudio {
